@@ -4,6 +4,7 @@
     font-weight: bold;
     color: khaki;
     text-align: center;
+    background-image: url('../img/imagen1.webp');
 }
 
 .subHeading{
@@ -17,6 +18,9 @@
 }
 .blue{
     background-color: skyblue;
+}
+.red{
+    background-color: lightcoral;
 }
 
 .spanBlue{
